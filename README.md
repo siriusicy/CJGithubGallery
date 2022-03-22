@@ -1,2 +1,2 @@
 # CJGithubGallery
-cj的github图床
+cj的github图床.
